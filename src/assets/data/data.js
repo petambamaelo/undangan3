@@ -2,16 +2,16 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Novry',
+            child: 'Putra ke 2',
+            father: 'Amos',
+            mother: 'Yuspina Limbong',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
+            name: 'Miaa',
+            child: 'Putri Ke',
             father: 'Lorem',
             mother: 'Ipsum',
             image: './src/assets/images/cewe.png'
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2027',
+            month: 'September',
+            date: '25',
+            day: 'Senin',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2027',
+            month: 'September',
+            date: '25',
+            day: 'Senin',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Panuli, Lembang Sarambu, Toraja Utara'
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/Hj9arPCsGPGRYGVr5',
+        map: 'https://maps.app.goo.gl/4pdKS1fgd6VZBpaq5',
     },
 
     galeri: [
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Novry',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '09773436234'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'MIa',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbweJl6gcDQOnaq1RvgbOAAvpbRPpzcqY_IssAbAKOgy81iEJgUt_xW3kBdlKeUYC4Mi/exec',
 
     navbar: [
         {
